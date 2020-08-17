@@ -114,4 +114,3 @@ def status_for_message(df):
     # print(df['f_status_product'].unique().tolist())
 
     return df
-
