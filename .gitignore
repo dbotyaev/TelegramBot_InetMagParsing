@@ -1,0 +1,9 @@
+settings.py
+for_tests.py
+dbotyaev-wb-parser-gs-7e31fa754a4d.json
+result.csv
+.idea/
+__pycache__/
+venv/
+*.log
+*.patch

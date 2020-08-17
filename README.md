@@ -1,0 +1,1 @@
+telegram parsing bot from online store's products to Google tables
